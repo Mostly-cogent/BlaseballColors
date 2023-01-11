@@ -1,0 +1,121 @@
+/*
+@name       Blaseball League Colors
+@namespace  https://github.com/Mostly-cogent/BlaseballColors
+
+
+
+*/
+
+
+.game-widget__log {
+    color: #00eeff;
+    font-size: .8rem;
+    line-height: 15px;
+}
+
+.League-DivisionCard-Rank {
+    color: #FFFFFF;
+}
+
+.League-DivisionCard-TeamName {
+    font-family: Lora, serif;
+}
+
+.League-Name h3 {
+    font-family: Lora, serif!important;
+}
+
+.League-DivisionCard-Title {
+    font-family: Lora, serif;
+}
+
+.League-DivisionCard-ListItem .WinLossValues {
+    font-family: Lora, serif;
+}
+
+a[href^="/team/b72f3061-f573-40d7-832a-5ad475bd7909"] {
+    color: rgb(218, 0, 0);
+}
+
+a[href^="/team/adc5b394-8f76-416d-9ce9-813706877b84"] {
+    color: rgb(23, 143, 85);
+}
+
+a[href^="/team/3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e"] {
+    color: rgb(247, 209, 255);
+}
+
+
+a[href^="/team/eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"] {
+    color: rgb(245, 254, 255);
+}
+
+a[href^="/team/36569151-a2fb-43c1-9df7-2df512424c82"] {
+    color: rgb(255, 212, 216);
+}
+
+a[href^="/team/878c1bf6-0d21-4659-bfee-916c8314d69c"] {
+    color: rgb(176, 99, 193);
+}
+
+a[href^="/team/f02aeae2-5e6a-4098-9842-02d2273f25c7"] {
+    color: rgb(255, 251, 171);
+}
+
+a[href^="/team/b63be8c2-576a-4d6e-8daf-814f8bcea96f"] {
+    color: rgb(205, 118, 250);
+}
+
+a[href^="/team/23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7"] {
+    color: rgb(88, 195, 180);
+}
+
+a[href^="/team/747b8e4a-7e50-4638-a973-ea7950a3e739"] {
+    color: rgb(232, 54, 34);
+}
+
+a[href^="/team/8d87c468-699a-47a8-b40d-cfb73a5660ad"] {
+    color: rgb(176, 92, 107);
+}
+
+a[href^="/team/bfd38797-8404-4b38-8b82-341da28b1f83"] {
+    color: rgb(255, 206, 10);
+}
+
+a[href^="/team/46358869-dce9-4a01-bfba-ac24fc56f57e"] {
+    color: rgb(255, 91, 41);
+}
+a[href^="/team/d9f89a8a-c563-493e-9d64-78e4f9a55d4a"] {
+    color: rgb(92, 255, 236);
+}
+a[href^="/team/9debc64f-74b7-4ae1-a4d6-fce0144b6ea5"] {
+    color: rgb(158, 130, 164);
+}
+a[href^="/team/a37f9158-7f82-46bc-908c-c9e2dda7c33b"] {
+    color: rgb(123, 169, 215);
+}
+a[href^="/team/b024e975-1c4a-4575-8936-a3754a08806a"] {
+    color: rgb(178, 179, 181);
+}
+a[href^="/team/ca3f1c8c-c025-4d8e-8eef-5be6accbeb16"] {
+    color: rgb(209, 55, 87);
+}
+
+a[href^="/team/57ec08cc-0411-4643-b304-0e80dbc15ac7"] {
+    color: rgb(238, 99, 0);
+}
+a[href^="/team/7966eb04-efcc-499b-8f03-d13916330531"] {
+    color: rgb(246, 15, 99);
+}
+a[href^="/team/105bc3ff-1320-4e37-8ef0-8d595cb95dd0"] {
+    color: rgb(90, 131, 234);
+}
+a[href^="/team/979aee4a-6d80-4863-bf1c-ee1a78e06024"] {
+    color: rgb(62, 230, 82);
+}
+a[href^="/team/bb4a9de5-c924-4923-a0cb-9d1445f1ee5d"] {
+    color: rgb(186, 156, 101);
+}
+a[href^="/team/c73b705c-40ad-4633-a6ed-d357ee2e2bcf"] {
+    color: rgb(232, 48, 171);
+}
